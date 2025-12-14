@@ -10,8 +10,6 @@ Layihə həmçinin tarixi səs xüsusiyyətləri (`energy`, `danceability`) və 
 
 ## Layihə İş Axını Diaqramı
 
-Aşağıda Spotify Analizi layihəsinin sondan-uca prosesini, məlumatların toplanmasından panelin yerləşdirilməsinə qədər göstərən iş axını diaqramı təqdim olunur:
-
 <!-- BURA SİZİN ŞƏKİL KODUNUZ GEDİR -->
 **![İş Axını Diaqramı](https://github.com/tahmina6mirzamammadova/Spotify_Data_Analysis/blob/main/diagram%20.jpg)** 
 <!-- Yuxarıdakı "diaqraminizin_adi.png" hissəsini yüklədiyiniz faylın dəqiq adı ilə əvəz edin! -->
